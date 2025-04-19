@@ -1,4 +1,4 @@
-# iFlix User Behavior Analysis Dashboard
+# iflix User Engagement and Content Performance Analysis
 
 ## Overview
 ![image](https://github.com/user-attachments/assets/2592d869-52fd-497d-9510-fb40569bb6b9)
